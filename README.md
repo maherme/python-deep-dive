@@ -22,3 +22,11 @@ Some examples and code written in python for didactic purpose
 - [IntegerInterning.py](Variables_Memory/IntegerInterning.py) : optimization about integer.
 - [StringInterning.py](Variables_Memory/StringInterning.py) : optimization about string.
 - [Peephole.py](Variables_Memory/Peephole.py) : optimization about variables in functions.
+
+## [Tuples as Data Structures and Named Tuples](Tuples)
+- [TuplesDataStructure.py](Tuples/TuplesDataStructure.py) : tuples as data structures.
+- [NamedTuples.py](Tuples/NamedTuples.py) : named tuples.
+- [NamedTuplesModifying.py](Tuples/NamedTuplesModifying.py) : named tuples modifying and extending.
+- [NamedTuplesDocstring.py](Tuples/NamedTuplesDocstring.py) : named tuples docstrings and default values.
+- [NamedTuplesApplication.py](Tuples/NamedTuplesApplication.py) :named tuples application - returning multiple values.
+- [NamedTuplesDictionaries.py](Tuples/NamedTuplesDictionaries.py) : named tuples application - alternative to dictionaries.
