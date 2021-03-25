@@ -23,6 +23,26 @@ Some examples and code written in python for didactic purpose
 - [StringInterning.py](Variables_Memory/StringInterning.py) : optimization about string.
 - [Peephole.py](Variables_Memory/Peephole.py) : optimization about variables in functions.
 
+## [Numeric Types](Numeric_Types)
+- [IntDataTypes.py](Numeric_Types/IntDataTypes.py) : integers, data types.
+- [IntOperations.py](Numeric_Types/IntOperations.py) : integers, operations.
+- [IntConstructorsBases.py](Numeric_Types/IntConstructorsBases.py) : integers, constructors and bases.
+- [Rationals.py](Numeric_Types/Rationals.py) : rational numbers.
+- [FloatInternalRepresentation.py](Numeric_Types/FloatInternalRepresentation.py) : floats, internal representations.
+- [FloatEqualityTesting.py](Numeric_Types/FloatEqualityTesting.py) : floats, equality testing.
+- [FloatCoercingToIntegers.py](Numeric_Types/FloatCoercingToIntegers.py) : floats, coercing to integers.
+- [FloatRounding.py](Numeric_Types/FloatRounding.py) : floats, rounding.
+- [DecimalCoding.py](Numeric_Types/DecimalCoding.py) : decimals.
+- [DecimalConstructorContext.py](Numeric_Types/DecimalConstructorContext.py) : decimals, constructors and contexts.
+- [DecimalMathOperation.py](Numeric_Types/DecimalMathOperation.py) : decimals, math operations.
+- [DecimalPerformance.py](Numeric_Types/DecimalPerformance.py) : decimals, performance considerations.
+- [Complex.py](Numeric_Types/Complex.py) : complex numbers.
+- [Boolean.py](Numeric_Types/Boolean.py) : booleans.
+- [BooleanTruthValue.py](Numeric_Types/BooleanTruthValue.py) : booleans, truth values.
+- [BooleanPrecedenceShortC.py](Numeric_Types/BooleanPrecedenceShortC.py) : booleans, precedence and short-circuiting.
+- [BooleanOperators.py](Numeric_Types/BooleanOperators.py) : booleans, boolean operators.
+- [ComparisonOperators.py](Numeric_Types/ComparisonOperators.py) : comparison operators.
+
 ## [Tuples as Data Structures and Named Tuples](Tuples)
 - [TuplesDataStructure.py](Tuples/TuplesDataStructure.py) : tuples as data structures.
 - [NamedTuples.py](Tuples/NamedTuples.py) : named tuples.
