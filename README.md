@@ -64,6 +64,20 @@ Some examples and code written in python for didactic purpose
 - [PartialFunctions.py](First-Class_Functions/PartialFunctions.py) : partial functions.
 - [OperatorModule.py](First-Class_Functions/OperatorModule.py) : the operator module.
 
+## [Scopes, Closures and Decorators](Scopes_Closures_Decorators)
+- [GlobalLocalScopes.py](Scopes_Closures_Decorators/GlobalLocalScopes.py) : global and local scopes.
+- [NonlocalScopes.py](Scopes_Closures_Decorators/NonlocalScopes.py) : nonlocal scopes.
+- [Closures.py](Scopes_Closures_Decorators/Closures.py) : closures.
+- [ClosuresApplications.py](Scopes_Closures_Decorators/ClosuresApplications.py) : closures applications.
+- [Decorators.py](Scopes_Closures_Decorators/Decorators.py) : decorators.
+- [DecoratorApplicationTiming.py](Scopes_Closures_Decorators/DecoratorApplicationTiming.py) : decorators application (timers).
+- [DecoratorApplicationLogger.py](Scopes_Closures_Decorators/DecoratorApplicationLogger.py) : decorators application (logger, stacked decorators).
+- [DecoratorApplicationMemoization.py](Scopes_Closures_Decorators/DecoratorApplicationMemoization.py) : decorators application (memoization).
+- [DecoratorsFactory.py](Scopes_Closures_Decorators/DecoratorsFactory.py) : decorator factory.
+- [DecoratorClass.py](Scopes_Closures_Decorators/DecoratorClass.py) : decorator class.
+- [DecoratingClasses.py](Scopes_Closures_Decorators/DecoratingClasses.py) : decorating classes.
+- [DecoratorApplicationDispatching.py](Scopes_Closures_Decorators/DecoratorApplicationDispatching.py) : decorator application (dispatching).
+
 ## [Tuples as Data Structures and Named Tuples](Tuples)
 - [TuplesDataStructure.py](Tuples/TuplesDataStructure.py) : tuples as data structures.
 - [NamedTuples.py](Tuples/NamedTuples.py) : named tuples.
