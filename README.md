@@ -53,6 +53,17 @@ Some examples and code written in python for didactic purpose
 - [ApplicationTimer.py](Function_Parameters/ApplicationTimer.py) : application timer.
 - [Beware.py](Function_Parameters/Beware.py) : beware about parameter defaults.
 
+## [First-Class Function](First-Class_Functions)
+- [Docstrings.py](First-Class_Functions/Docstrings.py) : docstrings and annotations.
+- [LambdaExpressions.py](First-Class_Functions/LambdaExpressions.py) : lambda expressions.
+- [LambdaSorting.py](First-Class_Functions/LambdaSorting.py) : lambdas and sorting.
+- [FunctionIntrospection.py](First-Class_Functions/FunctionIntrospection.py) : function introspection.
+- [Callables.py](First-Class_Functions/Callables.py) : callables.
+- [MapFilterZip.py](First-Class_Functions/MapFilterZip.py) : map, filter, zip and list comprehensions.
+- [ReducingFunctions.py](First-Class_Functions/ReducingFunctions.py) : reducing functions.
+- [PartialFunctions.py](First-Class_Functions/PartialFunctions.py) : partial functions.
+- [OperatorModule.py](First-Class_Functions/OperatorModule.py) : the operator module.
+
 ## [Tuples as Data Structures and Named Tuples](Tuples)
 - [TuplesDataStructure.py](Tuples/TuplesDataStructure.py) : tuples as data structures.
 - [NamedTuples.py](Tuples/NamedTuples.py) : named tuples.
