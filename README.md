@@ -85,3 +85,15 @@ Some examples and code written in python for didactic purpose
 - [NamedTuplesDocstring.py](Tuples/NamedTuplesDocstring.py) : named tuples docstrings and default values.
 - [NamedTuplesApplication.py](Tuples/NamedTuplesApplication.py) :named tuples application - returning multiple values.
 - [NamedTuplesDictionaries.py](Tuples/NamedTuplesDictionaries.py) : named tuples application - alternative to dictionaries.
+
+## [Modules, Packages and Namespaces](Modules_Packages_Namespaces)
+- [Module.py](Modules_Packages_Namespaces/Module.py) : what is a module?.
+- [example1](Modules_Packages_Namespaces/example1) : import module example 1.
+- [example2](Modules_Packages_Namespaces/example2) : import module example 2.
+- [example3](Modules_Packages_Namespaces/example3) : import module example 3.
+- [Imports.py](Modules_Packages_Namespaces/Imports.py) : imports and importlib.
+- [ImportVariants.py](Modules_Packages_Namespaces/ImportVariants.py) : import variants and misconceptions.
+- [ReloadingModules.py](Modules_Packages_Namespaces/ReloadingModules.py) : reloading modules.
+- [MainUsage](Modules_Packages_Namespaces/MainUsage) : using __main__.
+- [Packages](Modules_Packages_Namespaces/Packages) : packages.
+- [PackagesStructuring](Modules_Packages_Namespaces/PackagesStructuring) : structuring packages.
