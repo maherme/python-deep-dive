@@ -97,3 +97,16 @@ Some examples and code written in python for didactic purpose
 - [MainUsage](Modules_Packages_Namespaces/MainUsage) : using __main__.
 - [Packages](Modules_Packages_Namespaces/Packages) : packages.
 - [PackagesStructuring](Modules_Packages_Namespaces/PackagesStructuring) : structuring packages.
+
+##[Extras](Extras)
+- [DictionaryOrder.py](Extras/DictionaryOrder.py) : dictionary ordering.
+- [PreservedOrderKwargs.py](Extras/PreservedOrderKwargs.py) : preserved order of kwargs and named tuple application.
+- [f-Strings.py](Extras/f-Strings.py) : f-Strings.
+- [RandomSeeds.py](Extras/RandomSeeds.py) : random seeds.
+- [RandomChoices.py](Extras/RandomChoices.py) : random choices.
+- [RandomSample.py](Extras/RandomSample.py) : random samples.
+- [Timing.py](Extras/Timing.py) : timing code using *timeit*.
+- [NamesBlindly.py](Extras/NamesBlindly.py) : don't use *args and **kwargs names blindly.
+- [CommandLineArgs](Extras/CommandLineArgs) : command line arguments.
+- [SentinelValues.py](Extras/SentinelValues.py) : sentinel values for parameter defaults.
+- [Switch.py](Extras/Switch.py) : simulating a simple switch in Python.
